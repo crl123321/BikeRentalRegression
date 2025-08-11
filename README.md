@@ -37,6 +37,3 @@ Evaluating the Model:
 
 Calculate the coefficient of determination (R²) using the score method, which is 98.2%, indicating a very good fit.
 Calculate the mean absolute error (MAE) using mean_absolute_error from sklearn.metrics, which is ±194 bikes, indicating the average prediction error.
-
-
-This detailed process guides you through building, understanding, and evaluating a linear regression model in Python.
